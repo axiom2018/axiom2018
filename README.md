@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Omar.
-#### Machine Learning & Game Engineer
+### <h1>Hi there 👋, I'm Omar.</h1>
+#### <h2>Machine Learning & Game Engineer</h2>
 ![Machine Learning & Game Engineer](https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Machine-Learning-1.jpg)
 
 I've taken a weird path in my development life. Web development first caught my attention, then Game Programming had me hooked, but nowadays I REALLY am enjoying Machine Learning. I've always had a passion for A.I. in my game development days, so Machine Learning allows me to focus in on that.
 
-Skills: Python / R / Scikit Learn / Tensorflow / Data Visualization
+<h3>Skills: Python / R / Scikit Learn / Tensorflow / Data Visualization</h3>
 
 - 🔭 I’m currently working on Small ML side projects. 
 - 🌱 I’m currently learning R, and Data Visualization tools. 
